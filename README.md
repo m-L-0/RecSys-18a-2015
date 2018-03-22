@@ -18,7 +18,7 @@
 
 ## 作业提交
 
-1. 在组织内创建自己的Repo来进行作业的提交<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>，Repo以 “RecSys-18a-姓名-年级” 的形式命名，如“RecSys-18a-李XX-2015”。
+1. 在组织内创建自己的Repo来进行作业的提交<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>，Repo以 “18a-RecSys-姓名-年级” 的形式命名，如“18a-RecSys-李XX-2015”。
 
 2. 每次作业以文件夹的形式在个人已创建的Repo中组织，作业文件夹以每次作业的名称命名。 并遵循下面几点：
 
